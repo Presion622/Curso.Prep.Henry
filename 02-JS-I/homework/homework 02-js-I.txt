@@ -1,0 +1,19 @@
+Variables: Una variable es informacion que podemos recuperar cuano necesitemos otorgandole un nombre para buscarlo despues.
+ Su estructura es: var nombredelavariable = informacion guardada en la varialble.
+ Si vuelvo a asignar un valor a una variable, borra elvalor anterior.
+
+Hay variables que no se pueden borrar porque son constantes (const).
+
+Strings: Hilo de caracteres que esta delimitado por comillas (puede ser numeros o letras). 
+
+Funciones: Agrupa codigo para ejecutarlo cuando se necesite pudiendo modificar solo las variables (argumentos).
+su palabra clave es function y su estructura es 
+function nombredelafuncion (argumentos) {codigo de la funcion}
+Los argumentos son las variables que va a utilizar la funcion.
+
+Declaraciones if: El codigo de una funcion se ejecuta si una condicion se cumple.
+
+Valores booleanos: Son los valores que devuelve una funcion que tiene como respuesta solo dos valores: true (verdadero) o false (falso). Su origen proviene del codigo binario y se puede interpretar tambien con los valores 0 o 1; activar o desactivar. 
+
+
+
